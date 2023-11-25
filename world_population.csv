@@ -1,6 +1,5 @@
 name,code,pop
 Antigua and Barbuda,ATG,83039
-Algeria,DZA,32854159
 Azerbaijan,AZE,8352021
 Albania,ALB,3153731
 Armenia,ARM,3017661
@@ -12,7 +11,6 @@ Bermuda,BMU,64174
 Bahamas,BHS,323295
 Bosnia and Herzegovina,BIH,3915238
 Burma,MMR,47967266
-Benin,BEN,8490301
 Solomon Islands,SLB,472419
 Brasil,BRA,186830759
 Bulgaria,BGR,7744591
@@ -26,8 +24,6 @@ Sri Lanka,LKA,19120763
 China,CNA,1312978855
 Chile,CHL,16295102
 Cayman Islands,CYM,45591
-Cameroon,CMR,17795149
-Chad,TCD,10145609
 Comoros,COM,797902
 Colombia,COL,4494579
 Cuba,CUB,11259905
@@ -39,7 +35,6 @@ Africa2,AF2,804206
 Dominica,DMA,67827
 Africa3,AF3,72849793
 Ireland,IRL,4143294
-Equatorial Guinea,GNQ,484098
 Estonia,EST,1344312
 Austria,AUT,8291979
 Czech Republic,CZE,10191762
@@ -51,7 +46,6 @@ French Polynesia,PYF,255632
 France,FRA,60990544
 Gambia,GMB,1617029
 Georgia,GEO,4473409
-Ghana,GHA,2253501
 Grenada,GRD,105237
 Germany,DEU,82652369
 Guam,GUM,16857
@@ -83,17 +77,13 @@ Martinique,MTQ,395896
 Mongolia,MON,2580704
 Montserrat,MSR,5628
 The former Yugoslav Republic of Macedonia,MKD,2033655
-Mali,MLI,1161109
-Morocco,MAR,30494991
 Mauritius,MUS,1241173
-Mauritania,MRT,2963105
 Malta,MLT,402617
 Oman,OMN,2507042
 Maldives,MDV,295297
 CentroA,CEN,104266392
 New Caledonia,NCL,234185
 Niue,NIU,1632
-Niger,NER,1326419
 Aruba,ABW,102897
 Anguilla,AIA,12256
 Belgium,BEL,10398049
@@ -120,7 +110,6 @@ British Indian Ocean Territory,IOT,0
 Christmas Island,CXR,0
 United States Minor Outlying Islands,UMI,0
 Vanuatu,VUT,215366
-Nigeria,NGA,141356083
 Netherlands,NLD,1632769
 Norway,NOR,4638836
 Camboya,CAM,4531312
@@ -129,7 +118,6 @@ New Zealand,NZL,4097112
 Poland,POL,38195558
 Portugal,PRT,10528226
 Papua New Guinea,PNG,6069715
-Guinea-Bissau,GNB,1596929
 Qatar,QAT,796186
 Reunion,REU,785159
 Romania,ROU,21627557
@@ -145,7 +133,6 @@ Saudi Arabia,SAU,2361236
 Saint Kitts and Nevis,KNA,49138
 Seychelles,SYC,85532
 Lesotho,LSO,1980831
-Senegal,SEN,1177034
 Slovenia,SVN,1999425
 Sierra Leone,SLE,5586403
 Singapore,SGP,4327468
@@ -157,9 +144,7 @@ Switzerland,CHE,7424389
 Trinidad and Tobago,TTO,1323722
 Tokelau,TKL,1401
 Tonga,TON,99361
-Togo,TGO,6238572
 Sao Tome and Principe,STP,152622
-Tunisia,TUN,10104685
 Turkey,TUR,72969723
 Tuvalu,TUV,10441
 Africa1,AF1,28947181
@@ -168,7 +153,6 @@ Ukraine,UKR,46917544
 UsaNorte,NUSA, 186830759
 UsaOeste, USAO, 186830759
 GranColombia, GCL, 22031020
-Burkina Faso,BFA,13933363
 Saint Vincent and the Grenadines,VCT,119137
 British Virgin Islands,VGB,22016
 United States Virgin Islands,VIR,111408
@@ -177,6 +161,7 @@ Samoa,WSM,183845
 Swaziland,SWZ,1124529
 Yemen,YEM,21095679
 Africa6,AF6,13119679
+Africa5,AF5,13119679
 Indonesia,IDN,226063044
 Guadeloupe,GLP,438403
 Netherlands Antilles,ANT,186392
@@ -189,7 +174,6 @@ Saint Pierre and Miquelon,SPM,6346
 Saint Helena,SHN,6399
 San Marino,SMR,30214
 Turks and Caicos Islands,TCA,24459
-Western Sahara,ESH,440428
 Serbia,SRB,9863026
 Holy See (Vatican City),VAT,783
 Svalbard,SJM,0

@@ -10914,7 +10914,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Medio Oriente"
+        "name": "MedioOriente"
       },
       "geometry": {
         "type": "Polygon",

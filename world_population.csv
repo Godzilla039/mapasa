@@ -24,7 +24,6 @@ CanadaD,CAD,32270507
 CanadaC,CAC,32270507
 CanadaI,CAI,32270507
 Groelandia,GRO,57475
-Cambodia,KHM,13955507
 Sri Lanka,LKA,19120763
 Congo,COG,3609851
 Democratic Republic of the Congo,COD,58740547
@@ -87,7 +86,6 @@ Kiribati,KIR,92003
 Korea, Republic of,KOR,47869837
 Kuwait,KWT,2700
 Kazakhstan,KAZ,15210609
-Lao People's Democratic Republic,LAO,566391
 Lebanon,LBN,401074
 Latvia,LVA,2301793
 Belarus,BLR,9795287
@@ -109,7 +107,6 @@ Malta,MLT,402617
 Oman,OMN,2507042
 Maldives,MDV,295297
 CentroA,CEN,104266392
-Malaysia,MYS,25652985
 Mozambique,MOZ,20532675
 Malawi,MWI,13226091
 New Caledonia,NCL,234185
@@ -144,6 +141,7 @@ Vanuatu,VUT,215366
 Nigeria,NGA,141356083
 Netherlands,NLD,1632769
 Norway,NOR,4638836
+Camboya,CAM,4531312
 Nepal,NPL,27093656
 Nauru,NRU,10111
 New Zealand,NZL,4097112
@@ -181,7 +179,6 @@ Sweden,SWE,9038049
 Syrian Arab Republic,SYR,18893881
 Switzerland,CHE,7424389
 Trinidad and Tobago,TTO,1323722
-Thailand,THA,63002911
 Tajikistan,TJK,6550213
 Tokelau,TKL,1401
 Tonga,TON,99361
@@ -202,7 +199,6 @@ Burkina Faso,BFA,13933363
 Uzbekistan,UZB,26593123
 Saint Vincent and the Grenadines,VCT,119137
 British Virgin Islands,VGB,22016
-Viet Nam,VNM,85028643
 United States Virgin Islands,VIR,111408
 Namibia,NAM,2019677
 Wallis and Futuna Islands,WLF,15079

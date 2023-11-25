@@ -44,7 +44,6 @@ Falkland Islands (Malvinas),FLK,2975
 Micronesia, Federated States of,FSM,110058
 French Polynesia,PYF,255632
 France,FRA,60990544
-Gambia,GMB,1617029
 Georgia,GEO,4473409
 Grenada,GRD,105237
 Germany,DEU,82652369
@@ -55,13 +54,8 @@ Croatia,HRV,455149
 Hungary,HUN,10086387
 Iceland,ISL,295732
 India,IND,1134403141
-Iran (Islamic Republic of),IRN,69420607
-Israel,ISR,6692037
 Italy,ITA,5864636
-Cote d'Ivoire,CIV,18584701
-Iraq,IRQ,27995984
 Japon,JAP,127896740
-Jordan,JOR,5544066
 Kiribati,KIR,92003
 Kuwait,KWT,2700
 Kazahistan,KAZ,15210609
@@ -129,7 +123,7 @@ Rusia11, R11, 143953092
 Rusia6, R6,143953092
 Rusia4, R4, 143953092
 Rwanda,RWA,9233793
-Saudi Arabia,SAU,2361236
+MedioOriente,MEO,2361236
 Saint Kitts and Nevis,KNA,49138
 Seychelles,SYC,85532
 Lesotho,LSO,1980831

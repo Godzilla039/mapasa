@@ -24,8 +24,6 @@ CanadaC,CAC,32270507
 CanadaI,CAI,32270507
 Groelandia,GRO,57475
 Sri Lanka,LKA,19120763
-Congo,COG,3609851
-Democratic Republic of the Congo,COD,58740547
 Burundi,BDI,7858791
 China,CNA,1312978855
 Chile,CHL,16295102
@@ -34,7 +32,6 @@ Cameroon,CMR,17795149
 Chad,TCD,10145609
 Comoros,COM,797902
 Colombia,COL,4494579
-Central African Republic,CAF,4191429
 Cuba,CUB,11259905
 Cape Verde,CPV,506807
 Cook Islands,COK,13984
@@ -42,7 +39,7 @@ Cyprus,CYP,836321
 Denmark,DNK,5416945
 Africa2,AF2,804206
 Dominica,DMA,67827
-Egypt,EGY,72849793
+Africa3,AF3,72849793
 Ireland,IRL,4143294
 Equatorial Guinea,GNQ,484098
 Estonia,EST,1344312
@@ -55,7 +52,6 @@ Micronesia, Federated States of,FSM,110058
 French Polynesia,PYF,255632
 France,FRA,60990544
 Gambia,GMB,1617029
-Gabon,GAB,1290693
 Georgia,GEO,4473409
 Ghana,GHA,2253501
 Grenada,GRD,105237
@@ -84,7 +80,6 @@ Lithuania,LTU,3425077
 Liberia,LBR,3441796
 Slovakia,SVK,5386995
 Liechtenstein,LIE,34598
-Libyan Arab Jamahiriya,LBY,5918217
 Madagascar,MDG,18642586
 Martinique,MTQ,395896
 Mongolia,MON,2580704

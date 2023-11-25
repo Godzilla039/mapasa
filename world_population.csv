@@ -4,7 +4,6 @@ Algeria,DZA,32854159
 Azerbaijan,AZE,8352021
 Albania,ALB,3153731
 Armenia,ARM,3017661
-Angola,AGO,16095214
 American Samoa,ASM,64051
 Australia,AUS,20310208
 Bahrain,BHR,724788
@@ -93,8 +92,6 @@ Malta,MLT,402617
 Oman,OMN,2507042
 Maldives,MDV,295297
 CentroA,CEN,104266392
-Mozambique,MOZ,20532675
-Malawi,MWI,13226091
 New Caledonia,NCL,234185
 Niue,NIU,1632
 Niger,NER,1326419
@@ -148,9 +145,7 @@ Rwanda,RWA,9233793
 Saudi Arabia,SAU,2361236
 Saint Kitts and Nevis,KNA,49138
 Seychelles,SYC,85532
-South Africa,ZAF,47938663
 Lesotho,LSO,1980831
-Botswana,BWA,1835938
 Senegal,SEN,1177034
 Slovenia,SVN,1999425
 Sierra Leone,SLE,5586403
@@ -178,13 +173,11 @@ Burkina Faso,BFA,13933363
 Saint Vincent and the Grenadines,VCT,119137
 British Virgin Islands,VGB,22016
 United States Virgin Islands,VIR,111408
-Namibia,NAM,2019677
 Wallis and Futuna Islands,WLF,15079
 Samoa,WSM,183845
 Swaziland,SWZ,1124529
 Yemen,YEM,21095679
-Zambia,ZMB,11478317
-Zimbabwe,ZWE,13119679
+Africa6,ZAF6,13119679
 Indonesia,IDN,226063044
 Guadeloupe,GLP,438403
 Netherlands Antilles,ANT,186392

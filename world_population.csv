@@ -1,179 +1,30 @@
 name,code,pop
-Antigua and Barbuda,ATG,83039
-Azerbaijan,AZE,8352021
-Albania,ALB,3153731
-Armenia,ARM,3017661
-American Samoa,ASM,64051
-Australia,AUS,20310208
-Bahrain,BHR,724788
-Barbados,BRB,291933
-Bermuda,BMU,64174
-Bahamas,BHS,323295
-Bosnia and Herzegovina,BIH,3915238
-Burma,MMR,47967266
-Solomon Islands,SLB,472419
 Brasil,BRA,186830759
-Bulgaria,BGR,7744591
-Brunei Darussalam,BRN,373831
 CanadaN,CAN,32270507
 CanadaD,CAD,32270507
 CanadaC,CAC,32270507
 CanadaI,CAI,32270507
 Groelandia,GRO,57475
-Sri Lanka,LKA,19120763
 China,CNA,1312978855
 Chile,CHL,16295102
-Cayman Islands,CYM,45591
-Comoros,COM,797902
 Colombia,COL,4494579
 Cuba,CUB,11259905
-Cape Verde,CPV,506807
-Cook Islands,COK,13984
-Cyprus,CYP,836321
-Denmark,DNK,5416945
 Africa2,AF2,804206
-Dominica,DMA,67827
 Africa3,AF3,72849793
-Ireland,IRL,4143294
-Estonia,EST,1344312
-Austria,AUT,8291979
-Czech Republic,CZE,10191762
-Finland,FIN,5246004
-Fiji,FJI,828046
-Falkland Islands (Malvinas),FLK,2975
-Micronesia, Federated States of,FSM,110058
-French Polynesia,PYF,255632
-France,FRA,60990544
-Georgia,GEO,4473409
-Grenada,GRD,105237
-Germany,DEU,82652369
-Guam,GUM,16857
-Greece,GRC,11099737
-Guinea,GIN,9002656
-Croatia,HRV,455149
-Hungary,HUN,10086387
-Iceland,ISL,295732
 India,IND,1134403141
 Italy,ITA,5864636
 Japon,JAP,127896740
-Kiribati,KIR,92003
-Kuwait,KWT,2700
-Kazahistan,KAZ,15210609
-Lebanon,LBN,401074
-Latvia,LVA,2301793
-Belarus,BLR,9795287
-Lithuania,LTU,3425077
-Liberia,LBR,3441796
-Slovakia,SVK,5386995
-Liechtenstein,LIE,34598
-Madagascar,MDG,18642586
-Martinique,MTQ,395896
-Mongolia,MON,2580704
-Montserrat,MSR,5628
-The former Yugoslav Republic of Macedonia,MKD,2033655
-Mauritius,MUS,1241173
-Malta,MLT,402617
-Oman,OMN,2507042
-Maldives,MDV,295297
-CentroA,CEN,104266392
-New Caledonia,NCL,234185
-Niue,NIU,1632
-Aruba,ABW,102897
-Anguilla,AIA,12256
-Belgium,BEL,10398049
-Hong Kong,HKG,7057418
-Northern Mariana Islands,MNP,80258
-Faroe Islands,FRO,48205
-Andorra,AND,73483
-Gibraltar,GIB,291
-Isle of Man,IMN,78357
-Luxembourg,LUX,456613
-Macau,MAC,47309
-Monaco,MCO,325
-Palestine,PSE,3762005
-Montenegro,MNE,607969
-Mayotte,MYT,0
-Åland Islands,ALA,0
-Norfolk Island,NFK,0
-Cocos (Keeling) Islands,CCK,0
-Antarctica,ATA,0
-Bouvet Island,BVT,0
-French Southern and Antarctic Lands,ATF,0
-Heard Island and McDonald Islands,HMD,0
-British Indian Ocean Territory,IOT,0
-Christmas Island,CXR,0
-United States Minor Outlying Islands,UMI,0
-Vanuatu,VUT,215366
-Netherlands,NLD,1632769
-Norway,NOR,4638836
 Camboya,CAM,4531312
-Nauru,NRU,10111
-New Zealand,NZL,4097112
-Poland,POL,38195558
-Portugal,PRT,10528226
-Papua New Guinea,PNG,6069715
-Qatar,QAT,796186
-Reunion,REU,785159
-Romania,ROU,21627557
-Republic of Moldova,MDA,3876661
-Philippines,PHL,84566163
 Rusia12, R12, 143953092
 Rusia10, R10, 143953092
 Rusia11, R11, 143953092
 Rusia6, R6,143953092
 Rusia4, R4, 143953092
-Rwanda,RWA,9233793
 MedioOriente,MEO,2361236
-Saint Kitts and Nevis,KNA,49138
-Seychelles,SYC,85532
-Lesotho,LSO,1980831
-Slovenia,SVN,1999425
-Sierra Leone,SLE,5586403
-Singapore,SGP,4327468
-Spain,ESP,43397491
-Saint Lucia,LCA,16124
-Sweden,SWE,9038049
-Syrian Arab Republic,SYR,18893881
-Switzerland,CHE,7424389
-Trinidad and Tobago,TTO,1323722
-Tokelau,TKL,1401
-Tonga,TON,99361
-Sao Tome and Principe,STP,152622
-Turkey,TUR,72969723
-Tuvalu,TUV,10441
 Africa1,AF1,28947181
-United Kingdom,GBR,60244834
-Ukraine,UKR,46917544
 UsaNorte,NUSA, 186830759
 UsaOeste, USAO, 186830759
 GranColombia, GCL, 22031020
-Saint Vincent and the Grenadines,VCT,119137
-British Virgin Islands,VGB,22016
-United States Virgin Islands,VIR,111408
-Wallis and Futuna Islands,WLF,15079
-Samoa,WSM,183845
-Swaziland,SWZ,1124529
-Yemen,YEM,21095679
 Africa6,AF6,13119679
 Africa5,AF5,13119679
-Indonesia,IDN,226063044
-Guadeloupe,GLP,438403
-Netherlands Antilles,ANT,186392
-United Arab Emirates,ARE,4104291
-Timor-Leste,TLS,1067285
-Pitcairn Islands,PCN,5
-Palau,PLW,20127
-Marshall Islands,MHL,5672
-Saint Pierre and Miquelon,SPM,6346
-Saint Helena,SHN,6399
-San Marino,SMR,30214
-Turks and Caicos Islands,TCA,24459
-Serbia,SRB,9863026
-Holy See (Vatican City),VAT,783
-Svalbard,SJM,0
-Saint Martin,MAF,0
-Saint Barthelemy,BLM,0
-Guernsey,GGY,0
-Jersey,JEY,0
-South Georgia South Sandwich Islands,SGS,0
-Taiwan,TWN,23588933
+
